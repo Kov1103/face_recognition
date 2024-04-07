@@ -1,0 +1,169 @@
+/*----------------------------------------- all -----------------------------------------*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*----------------------------------------- nav -----------------------------------------*/
+nav {
+    background-color: #E8E8E8;
+    box-shadow: 0px 4px 4px #888888;
+}
+
+.nav {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.nav div:nth-child(1) button.buttonClass {
+    background-color: #E8E8E8;
+    color: #030391;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid transparent;
+    font-family: 'Baloo Bhaijaan 2', sans-serif;
+}
+
+.nav div:nth-child(2) a img {
+    width: 100px;
+    cursor: pointer;
+}
+
+.nav div:nth-child(3) a {
+    color: #030391;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/*----------------------------------------- container -----------------------------------------*/
+.content {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content .secondContent {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.content .secondContent div:nth-child(1) {
+    margin-right: 200px;
+}
+
+.content .secondContent div:nth-child(1) img {
+    border-radius: 50px;
+}
+
+.content .secondContent div:nth-child(2) {
+    max-width: 400px;
+}
+
+.content .secondContent div:nth-child(2) p {
+    font-family: 'Baloo Bhaijaan 2', sans-serif;
+}
+
+.content .thirdContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #E8E8E8;
+    width: 100%;
+    margin-bottom: 100px;
+    padding: 30px;
+}
+
+.content .thirdContent .parLabel {
+    margin-bottom: 30px;
+}
+
+.content .thirdContent .parLabel h1 {
+    font-family: 'Baloo Bhaijaan 2', sans-serif;
+    font-size: 45px;
+}
+
+.content .thirdContent .parImage {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 150px;
+}
+
+.content .thirdContent .parImage img {
+    border-radius: 20px;
+}
+
+.content .thirdContent .parImage p {
+    font-family: 'Baloo Bhaijaan 2', sans-serif;
+    font-size: 20px;
+}
+
+.content .thirdContent .parImage #par1, #par2, #par3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    row-gap: 20px;
+}
+
+.content .fourthContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content .fourthContent div:nth-child(1) {
+    margin-bottom: 30px;
+}
+
+.content .fourthContent div:nth-child(1) h1 {
+    font-family: 'Baloo Bhaijaan 2', sans-serif;
+    font-size: 50px;
+}
+
+.content .fourthContent div:nth-child(2) video {
+    border-radius: 30px;
+}
+
+/*----------------------------------------- container -----------------------------------------*/
+.footer {
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    justify-content: center;
+    background-color: #E8E8E8;
+    margin-top: 100px;
+}
+
+.footer #footerLogo {
+    margin-right: 100px;
+}
+
+.footer #footerContact p, span {
+    font-family: 'Baloo Bhaijaan 2', sans-serif;
+}
+
+.footer #footerContact p:nth-child(1) {
+    font-size: 30px;
+    font-weight: bold;
+}
+

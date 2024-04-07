@@ -1,0 +1,1289 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:root:Received input_data: example_input
+INFO:root:Output: [INFO] loading encodings + face detector...
+[0.60040553 0.31259149]
+1
+door unlock
+[0.59730983 0.29969813]
+1
+door unlock
+[0.57916911 0.31511332]
+1
+door unlock
+[0.57667515 0.29852626]
+1
+door unlock
+[0.57907198 0.30093261]
+1
+door unlock
+[0.60820151 0.28780661]
+1
+door unlock
+[0.60848048 0.30200328]
+1
+door unlock
+[0.60889311 0.30267684]
+1
+door unlock
+[0.62072671 0.30277199]
+1
+door unlock
+[0.61968801 0.3306617 ]
+1
+door unlock
+[0.58340665 0.30577682]
+1
+door unlock
+[0.59042592 0.28431885]
+1
+door unlock
+[0.57436527 0.30888019]
+1
+door unlock
+[0.56739179 0.29852057]
+1
+door unlock
+[0.57798158 0.30238102]
+1
+door unlock
+[0.57681916 0.30676897]
+1
+door unlock
+[0.5957233  0.30124776]
+1
+door unlock
+[0.6043483 0.2924765]
+1
+door unlock
+[0.6027871 0.2947302]
+1
+door unlock
+[0.6113968  0.28794984]
+1
+door unlock
+[0.61082383 0.32643202]
+1
+door unlock
+[0.59534937 0.29311342]
+1
+door unlock
+[0.60921716 0.30482956]
+1
+door unlock
+[0.59251111 0.28861948]
+1
+door unlock
+[0.58949131 0.30615752]
+1
+door unlock
+[0.58302895 0.29510036]
+1
+door unlock
+[0.60261734 0.28515904]
+1
+door unlock
+[0.57296483 0.31556255]
+1
+door unlock
+[0.59712747 0.31466637]
+1
+door unlock
+[0.59226183 0.31218506]
+1
+door unlock
+[0.60386674 0.2803621 ]
+1
+door unlock
+[0.59170622 0.30302767]
+1
+door unlock
+[0.61262137 0.30412783]
+1
+door unlock
+[0.60906975 0.31781028]
+1
+door unlock
+[0.60824485 0.31043322]
+1
+door unlock
+[0.60657805 0.30613054]
+1
+door unlock
+[0.5890596  0.29733863]
+1
+door unlock
+[0.59457767 0.30269997]
+1
+door unlock
+[0.59290704 0.29413953]
+1
+door unlock
+[0.5901836  0.29430536]
+1
+door unlock
+[0.59863679 0.29257418]
+1
+door unlock
+[0.61572941 0.30478998]
+1
+door unlock
+[0.59096663 0.30304711]
+1
+door unlock
+[0.57434657 0.291147  ]
+1
+door unlock
+[0.57990646 0.29195416]
+1
+door unlock
+[0.57253884 0.31671056]
+1
+door unlock
+[0.56841352 0.30487175]
+1
+door unlock
+[0.57498033 0.32478334]
+1
+door unlock
+[0.58639699 0.31782672]
+1
+door unlock
+[0.60607379 0.31079276]
+1
+door unlock
+[0.57294485 0.30400027]
+1
+door unlock
+[0.6080129  0.30993426]
+1
+door unlock
+[0.60506514 0.29535091]
+1
+door unlock
+[INFO] elasped time: 19.74
+[INFO] approx. FPS: 2.63
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 02:04:22] "GET /run_face_rec?input_data=example_input HTTP/1.1" 200 -
+INFO:root:Received input_data: example_input
+INFO:root:Output: [INFO] loading encodings + face detector...
+[0.59818194 0.31744944]
+1
+door unlock
+[0.60029541 0.31509848]
+1
+door unlock
+[0.59360847 0.31359498]
+1
+door unlock
+[0.58490689 0.31325876]
+1
+door unlock
+[0.56945025 0.30435929]
+1
+door unlock
+[0.59361939 0.3155233 ]
+1
+door unlock
+[0.58209427 0.30588527]
+1
+door unlock
+[0.58586572 0.30257098]
+1
+door unlock
+[0.59014734 0.28389029]
+1
+door unlock
+[0.61013712 0.33162642]
+1
+door unlock
+[0.58176609 0.29492205]
+1
+door unlock
+[0.57992952 0.30344892]
+1
+door unlock
+[0.57817165 0.30663212]
+1
+door unlock
+[0.59012883 0.31542255]
+1
+door unlock
+[0.59826155 0.31400861]
+1
+door unlock
+[0.5976431  0.31271276]
+1
+door unlock
+[0.59696656 0.31716142]
+1
+door unlock
+[0.59556678 0.35413029]
+1
+door unlock
+[0.56426563 0.35386347]
+1
+door unlock
+[0.5939964  0.36249392]
+1
+door unlock
+[0.59489755 0.36227382]
+1
+door unlock
+[0.59074812 0.35770681]
+1
+door unlock
+[0.58338186 0.34321833]
+1
+door unlock
+[0.59287506 0.31299965]
+1
+door unlock
+[0.59166564 0.33093174]
+1
+door unlock
+[0.63153021 0.33567667]
+1
+door unlock
+[0.61519172 0.30947368]
+1
+door unlock
+[INFO] elasped time: 12.57
+[INFO] approx. FPS: 2.07
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 02:04:46] "GET /run_face_rec?input_data=example_input HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:root:Received input_data: example_input
+INFO:root:Received input_data: example_input
+INFO:root:Output: [INFO] loading encodings + face detector...
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 02:21:36] "GET /run_face_rec?input_data=example_input HTTP/1.1" 200 -
+INFO:root:Output: [INFO] loading encodings + face detector...
+[0.55819451 0.29915978]
+1
+door unlock
+[0.58519499 0.32043696]
+1
+door unlock
+[0.59401355 0.32268642]
+1
+door unlock
+[0.60483945 0.3834729 ]
+1
+door unlock
+[0.57915857 0.32396856]
+1
+door unlock
+[0.5492474  0.32917482]
+1
+door unlock
+[0.56040205 0.29393459]
+1
+door unlock
+[0.56048745 0.30349671]
+1
+door unlock
+[0.54149261 0.30643074]
+1
+door unlock
+[0.57760757 0.29970802]
+1
+door unlock
+[0.56687449 0.28935802]
+1
+door unlock
+[0.5874671  0.31685171]
+1
+door unlock
+[0.5854828  0.30174731]
+1
+door unlock
+[0.60395725 0.36504457]
+1
+door unlock
+[0.5409076  0.29052071]
+1
+door unlock
+[0.55505482 0.2915449 ]
+1
+door unlock
+[0.56514864 0.29659921]
+1
+door unlock
+[0.58295115 0.30005722]
+1
+door unlock
+[0.53725586 0.30113321]
+1
+door unlock
+[0.55632236 0.29092435]
+1
+door unlock
+[0.56706027 0.29655293]
+1
+door unlock
+[0.55438718 0.29698589]
+1
+door unlock
+[0.56211943 0.28728506]
+1
+door unlock
+[0.55850821 0.32098446]
+1
+door unlock
+[0.56149714 0.31847676]
+1
+door unlock
+[0.54919623 0.29552715]
+1
+door unlock
+[0.57713611 0.30593443]
+1
+door unlock
+[0.56526444 0.30605142]
+1
+door unlock
+[0.57678129 0.29373883]
+1
+door unlock
+[0.5708322  0.29425161]
+1
+door unlock
+[0.57187363 0.31324871]
+1
+door unlock
+[0.56301638 0.29976325]
+1
+door unlock
+[0.55107978 0.30091531]
+1
+door unlock
+[0.57555284 0.31127013]
+1
+door unlock
+[0.57517955 0.31853838]
+1
+door unlock
+[0.58426923 0.29326615]
+1
+door unlock
+[0.58172132 0.30852277]
+1
+door unlock
+[0.59519823 0.29093512]
+1
+door unlock
+[0.58321612 0.32416347]
+1
+door unlock
+[0.57878916 0.27935928]
+1
+door unlock
+[0.58788457 0.32061584]
+1
+door unlock
+[0.59486622 0.32605436]
+1
+door unlock
+[0.56115732 0.27649135]
+1
+door unlock
+[0.59465085 0.31485708]
+1
+door unlock
+[0.60007583 0.31899886]
+1
+door unlock
+[0.58439368 0.32282673]
+1
+door unlock
+[0.57674043 0.31752288]
+1
+door unlock
+[0.55214012 0.31781968]
+1
+door unlock
+[INFO] elasped time: 26.80
+[INFO] approx. FPS: 1.75
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 02:21:44] "GET /run_face_rec?input_data=example_input HTTP/1.1" 200 -
+INFO:root:Received input_data: example_input
+INFO:root:Output: [INFO] loading encodings + face detector...
+[0.55166316 0.28668218]
+1
+door unlock
+[0.53160214 0.31094354]
+1
+door unlock
+[0.51518776 0.31276893]
+1
+door unlock
+[0.59303717 0.28385367]
+1
+door unlock
+[0.59196352 0.29564068]
+1
+door unlock
+[0.62410455 0.29603205]
+1
+door unlock
+[0.6040428  0.30415394]
+1
+door unlock
+[0.60217588 0.30691927]
+1
+door unlock
+[0.58441191 0.30385519]
+1
+door unlock
+[0.6148221 0.3130451]
+1
+door unlock
+[0.58366294 0.30634504]
+1
+door unlock
+[0.56599171 0.32926514]
+1
+door unlock
+[0.56696655 0.30778673]
+1
+door unlock
+[0.53562675 0.35320248]
+1
+door unlock
+[0.60295342 0.35259126]
+1
+door unlock
+[0.55661616 0.3381596 ]
+1
+door unlock
+[0.56263555 0.44323336]
+1
+[0.54330722 0.39436367]
+1
+door unlock
+[0.61935709 0.46699706]
+1
+[0.59568508 0.37373153]
+1
+door unlock
+[0.60554929 0.35653521]
+1
+door unlock
+[0.5409635  0.38661685]
+1
+door unlock
+[0.58465947 0.28841903]
+1
+door unlock
+[0.58315488 0.28956433]
+1
+door unlock
+[0.56936395 0.26634596]
+1
+door unlock
+[0.55036829 0.27034248]
+1
+door unlock
+[0.55406187 0.28091492]
+1
+door unlock
+[0.54401523 0.28718501]
+1
+door unlock
+[0.56886318 0.28737324]
+1
+door unlock
+[0.58946244 0.27430031]
+1
+door unlock
+[0.5545342  0.26178244]
+1
+door unlock
+[0.56922284 0.33863542]
+1
+door unlock
+[0.56317202 0.30516077]
+1
+door unlock
+[0.57111268 0.29352653]
+1
+door unlock
+[0.56894236 0.28624065]
+1
+door unlock
+[0.56835238 0.34675478]
+1
+door unlock
+[0.54606724 0.30393423]
+1
+door unlock
+[INFO] elasped time: 16.48
+[INFO] approx. FPS: 2.79
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 02:22:08] "GET /run_face_rec?input_data=example_input HTTP/1.1" 200 -
+INFO:root:Received input_data: example_input
+INFO:root:Output: [INFO] loading encodings + face detector...
+[0.60216597 0.32188274]
+1
+door unlock
+[0.59517808 0.30935596]
+1
+door unlock
+[0.57870949 0.32136399]
+1
+door unlock
+[0.58006931 0.29914434]
+1
+door unlock
+[0.57765396 0.29863389]
+1
+door unlock
+[0.59028388 0.31600225]
+1
+door unlock
+[0.60856645 0.34985971]
+1
+door unlock
+[0.57239172 0.37269232]
+1
+door unlock
+[0.6027535  0.39897952]
+1
+door unlock
+[0.5875619  0.34482349]
+1
+door unlock
+[0.59022335 0.30584288]
+1
+door unlock
+[0.59512996 0.32916192]
+1
+door unlock
+[0.69089348 0.52350103]
+1
+[0.70196123 0.63872687]
+1
+[0.58008265 0.40948054]
+1
+[0.55183642 0.39002283]
+1
+door unlock
+[0.6148345  0.46821678]
+1
+[0.59108212 0.47876064]
+1
+[0.57368797 0.39291482]
+1
+door unlock
+[0.57631221 0.46465623]
+1
+[0.5830342  0.40301395]
+1
+[0.57194662 0.34465925]
+1
+door unlock
+[0.59444999 0.42377151]
+1
+[0.60417681 0.35081954]
+1
+door unlock
+[0.55846414 0.31805373]
+1
+door unlock
+[0.58939583 0.36412984]
+1
+door unlock
+[0.56885381 0.35350776]
+1
+door unlock
+[0.59212006 0.37697264]
+1
+door unlock
+[0.57897305 0.35421452]
+1
+door unlock
+[0.6087782  0.42558899]
+1
+[0.60953379 0.37135148]
+1
+door unlock
+[0.62292164 0.39949691]
+1
+door unlock
+[0.57623786 0.33475083]
+1
+door unlock
+[0.5865119  0.33039543]
+1
+door unlock
+[0.61109891 0.3989067 ]
+1
+door unlock
+[0.57890348 0.30675912]
+1
+door unlock
+[0.58155659 0.32559382]
+1
+door unlock
+[0.56700384 0.32787916]
+1
+door unlock
+[0.56221153 0.34035285]
+1
+door unlock
+[0.52742825 0.3056156 ]
+1
+door unlock
+[0.62068839 0.349512  ]
+1
+door unlock
+[0.58399404 0.35199396]
+1
+door unlock
+[0.57191224 0.36760058]
+1
+door unlock
+[0.56437935 0.277686  ]
+1
+door unlock
+[0.56052956 0.34650954]
+1
+door unlock
+[0.6261377  0.33510985]
+1
+door unlock
+[0.6074459  0.33560206]
+1
+door unlock
+[0.5242808  0.29482363]
+1
+door unlock
+[INFO] elasped time: 19.12
+[INFO] approx. FPS: 2.56
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 02:22:42] "GET /run_face_rec?input_data=example_input HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\dataset\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\facial_req.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\facial_req.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:root:Received input_data: example_input
+INFO:root:Output: [INFO] loading encodings + face detector...
+[0.56451309 0.33640444]
+1
+door unlock
+[0.59249344 0.34127306]
+1
+[0.57334329 0.34415194]
+1
+[0.57219268 0.32873874]
+1
+[0.59381119 0.32479368]
+1
+[0.56634321 0.2885478 ]
+1
+[0.57501405 0.3059209 ]
+1
+[0.56255391 0.26493644]
+1
+[0.57863251 0.30568111]
+1
+[0.58853204 0.29452837]
+1
+[0.56835241 0.38542101]
+1
+[0.59773414 0.33029851]
+1
+door lock
+[0.56049843 0.31848934]
+1
+door unlock
+[0.59860799 0.3662652 ]
+1
+[0.56979953 0.35864986]
+1
+[0.61711927 0.39287685]
+1
+[0.57916482 0.3359933 ]
+1
+[0.59860589 0.3617144 ]
+1
+[0.62545952 0.37552993]
+1
+[0.60277253 0.35095492]
+1
+[0.56635142 0.28308705]
+1
+[0.56811651 0.28605293]
+1
+[0.54279451 0.29244811]
+1
+[0.53644381 0.29555944]
+1
+[0.54529158 0.30162935]
+1
+[0.5830267  0.36810698]
+1
+[0.59096554 0.41072089]
+1
+door lock
+[0.59189742 0.40336445]
+1
+[0.58950984 0.40812547]
+1
+[0.58821793 0.40092455]
+1
+[0.58726636 0.42763234]
+1
+[0.57276366 0.37361937]
+1
+door unlock
+[0.61228478 0.3895392 ]
+1
+[0.59552297 0.3711583 ]
+1
+[0.58661695 0.38236691]
+1
+[0.55672351 0.33964171]
+1
+[0.61046418 0.34206394]
+1
+[0.5609768  0.35125188]
+1
+[0.5802315  0.35313086]
+1
+[0.57117124 0.31409748]
+1
+[0.56700167 0.31405782]
+1
+[0.55920294 0.29244533]
+1
+[0.56217283 0.26531945]
+1
+door lock
+[0.59112377 0.34798307]
+1
+door unlock
+[0.58815726 0.33703538]
+1
+[0.56459519 0.35832777]
+1
+[0.61457184 0.41541062]
+1
+[0.5811897  0.37264923]
+1
+[0.57517539 0.42767259]
+1
+[0.57712153 0.43391086]
+1
+[0.56754439 0.32678299]
+1
+door lock
+[0.5675807  0.32157014]
+1
+door unlock
+[0.56926079 0.33352811]
+1
+[0.57797027 0.34891677]
+1
+[0.57014421 0.30108222]
+1
+[0.5615106  0.30461837]
+1
+[0.55713939 0.29717061]
+1
+[0.5816656  0.34813433]
+1
+[0.62467758 0.39620951]
+1
+[0.5891743  0.34509896]
+1
+[0.51883468 0.29118353]
+1
+[0.5303384  0.30044544]
+1
+door lock
+[0.56580411 0.27404531]
+1
+door unlock
+[0.5671076  0.26939048]
+1
+[0.56161    0.30020563]
+1
+[0.56761132 0.29993304]
+1
+[0.54691288 0.32315947]
+1
+[0.55761283 0.31409143]
+1
+[0.55799695 0.29462909]
+1
+[0.53773157 0.31537435]
+1
+[0.5373892  0.29847313]
+1
+[0.58066876 0.33324599]
+1
+[0.53588086 0.35259355]
+1
+[0.59304605 0.36472793]
+1
+door lock
+[0.63318841 0.44277337]
+1
+[0.61777272 0.40115786]
+1
+[0.61988118 0.40652478]
+1
+[0.6464796  0.41621817]
+1
+[0.63509026 0.36865463]
+1
+door unlock
+[0.64370092 0.39609387]
+1
+[0.63903942 0.38626557]
+1
+[0.61401812 0.3937416 ]
+1
+[0.62916595 0.38351782]
+1
+[0.64364083 0.39504121]
+1
+[0.63554296 0.36409058]
+1
+[0.63151384 0.3734905 ]
+1
+[0.6547831  0.39088569]
+1
+[0.62174804 0.38435044]
+1
+[0.62296932 0.40493075]
+1
+[0.60130022 0.40361544]
+1
+[0.62020371 0.43135471]
+1
+[0.63020024 0.48528624]
+1
+door lock
+[0.62313058 0.44899007]
+1
+[0.58456694 0.34851214]
+1
+door unlock
+[0.64067925 0.4095716 ]
+1
+door lock
+[INFO] elasped time: 44.57
+[INFO] approx. FPS: 2.33
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 04:47:50] "GET /run_face_rec?input_data=example_input HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:root:Received input_data: example_input
+INFO:root:Output: [INFO] loading encodings + face detector...
+[0.62418628 0.37390675]
+1
+door unlock
+[0.74173738 0.58356097]
+1
+[0.57926833 0.36790561]
+1
+[0.60870754 0.42264932]
+1
+[0.61585495 0.42629786]
+1
+[0.63241836 0.46352758]
+1
+[0.6498681  0.45828542]
+1
+[0.57723906 0.3446812 ]
+1
+[0.58317585 0.36145414]
+1
+[0.61228007 0.39273609]
+1
+[0.58338499 0.36922998]
+1
+[0.61806704 0.35652923]
+1
+door lock
+[0.55522183 0.40964083]
+1
+[0.59754317 0.41194205]
+1
+[0.60952973 0.41782951]
+1
+[0.58136601 0.41569605]
+1
+[0.59730706 0.43125617]
+1
+[0.59886313 0.38053184]
+1
+door unlock
+[0.6040083  0.35451214]
+1
+[0.61101906 0.37656394]
+1
+[0.62712741 0.38274908]
+1
+[0.59940706 0.38376422]
+1
+[0.63541481 0.4074759 ]
+1
+[0.61593648 0.34816382]
+1
+[0.59174891 0.31693196]
+1
+[0.56257374 0.3316378 ]
+1
+[0.56112268 0.34499233]
+1
+[0.57035138 0.344469  ]
+1
+[0.59624718 0.33875037]
+1
+[0.60504466 0.30680044]
+1
+[0.58224429 0.29974595]
+1
+[0.57562479 0.31069465]
+1
+[0.58154479 0.31026779]
+1
+door lock
+[0.55155756 0.29866699]
+1
+door unlock
+[0.58641573 0.30782861]
+1
+[0.55367197 0.30679707]
+1
+[0.55644658 0.28561756]
+1
+[0.5616701  0.27865293]
+1
+[0.55328668 0.31365633]
+1
+[0.51778279 0.3270607 ]
+1
+[0.55720737 0.31699501]
+1
+[0.5401982  0.30206005]
+1
+[0.5465049  0.27517785]
+1
+[0.54187313 0.30158018]
+1
+[0.55784804 0.31586519]
+1
+[0.57954184 0.31484366]
+1
+[0.56404084 0.29850106]
+1
+door lock
+[INFO] elasped time: 18.54
+[INFO] approx. FPS: 3.13
+
+INFO:werkzeug:127.0.0.1 - - [08/Jan/2024 04:49:40] "GET /run_face_rec?input_data=example_input HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\facial_req.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\facial_req.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:root:Received input_data: example_input
+INFO:root:Output: [INFO] loading encodings + face detector...
+[0.61511912 0.38664223]
+1
+door unlock
+[0.60722804 0.36168655]
+1
+[0.64007277 0.33264894]
+1
+[0.61505738 0.31149548]
+1
+[0.62320787 0.31095445]
+1
+[0.64313226 0.35157479]
+1
+[0.58918679 0.35130294]
+1
+[0.62514206 0.3653704 ]
+1
+[0.61065863 0.37606166]
+1
+[0.61289865 0.39382955]
+1
+door lock
+[INFO] elasped time: 4.86
+[INFO] approx. FPS: 1.85
+
+INFO:werkzeug:127.0.0.1 - - [09/Jan/2024 02:03:16] "GET /run_face_rec?input_data=example_input HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug:127.0.0.1 - - [09/Jan/2024 02:27:01] "GET /run_train_model HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jan/2024 02:27:12] "GET /run_train_model HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\register.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\register.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\register.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\register.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug: * Detected change in 'C:\\Users\\Admin\\Downloads\\Web\\web_do_an_tkll\\src\\facial_recognition\\register.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug:127.0.0.1 - - [09/Jan/2024 03:38:35] "GET /run_register HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 411-252-446
+INFO:werkzeug:127.0.0.1 - - [09/Jan/2024 03:46:49] "GET /run_delete_user HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jan/2024 03:47:01] "GET /run_train_model HTTP/1.1" 200 -
+INFO:root:Received input_data: example_input
+INFO:root:Output: [INFO] loading encodings + face detector...
+[0.6050517  0.33978623]
+1
+door unlock
+[0.46149658 0.46502799]
+0
+[0.60554302 0.34327375]
+1
+[0.47894814 0.47053317]
+1
+[0.60771168 0.33161775]
+1
+[0.46994872 0.48431498]
+0
+[0.61709847 0.32048251]
+1
+[0.50851809 0.50095244]
+1
+[0.61741559 0.34867384]
+1
+[0.48981004 0.46159922]
+1
+[0.57707847 0.40615099]
+1
+[0.40885556 0.52036416]
+0
+[0.40571386 0.51199105]
+0
+[0.61525138 0.47563855]
+1
+[0.44773933 0.4568857 ]
+0
+[0.60337876 0.3868594 ]
+1
+[0.64125228 0.42899357]
+1
+[0.44719329 0.44579108]
+1
+[0.61707753 0.41605225]
+1
+[0.395211   0.49683777]
+0
+[0.61998684 0.45824974]
+1
+[0.3857515  0.48441026]
+0
+[0.60198868 0.42068749]
+1
+[0.5228388  0.46341346]
+1
+[0.59699864 0.37517731]
+1
+[0.44519141 0.45176541]
+0
+[0.63870686 0.3704088 ]
+1
+[0.41643626 0.46266774]
+0
+[0.62680177 0.29981523]
+1
+[0.44238944 0.45002898]
+0
+[0.63072586 0.31095873]
+1
+[0.42481565 0.45388493]
+0
+[0.62413952 0.34273581]
+1
+[0.42573754 0.4624937 ]
+0
+[0.57756395 0.388102  ]
+1
+[0.44723939 0.44627004]
+1
+[0.59486287 0.38630854]
+1
+[0.48593007 0.47600076]
+1
+[0.60776624 0.39516498]
+1
+[0.44127264 0.48289769]
+0
+[0.60587333 0.40204856]
+1
+[0.3849512  0.48551325]
+0
+[0.59520506 0.36492209]
+1
+[0.47981619 0.44826469]
+1
+[0.58276909 0.37127519]
+1
+[0.37995336 0.45375629]
+0
+[0.59241523 0.37302122]
+1
+[0.4338572  0.43463123]
+0
+[0.59807976 0.38493018]
+1
+[0.32533413 0.4758794 ]
+0
+[0.59817782 0.38723288]
+1
+[0.33280009 0.47350695]
+0
+[0.59716844 0.38838706]
+1
+[0.38704784 0.48132216]
+0
+[0.61447749 0.40179834]
+1
+[0.37573915 0.47629169]
+0
+[0.61345152 0.3856712 ]
+1
+[0.37442597 0.49423146]
+0
+[0.61812524 0.41621262]
+1
+[0.38076003 0.45301375]
+0
+[0.60876014 0.39821993]
+1
+[0.36794276 0.50259027]
+0
+[0.60189    0.41205642]
+1
+[0.35471432 0.45242992]
+0
+[0.59937615 0.39284152]
+1
+[0.38338199 0.47963479]
+0
+[0.59743773 0.38004166]
+1
+[0.37119497 0.48358452]
+0
+[0.59887623 0.37208199]
+1
+[0.37772892 0.47382005]
+0
+[0.60443855 0.38511131]
+1
+[0.34614505 0.48954515]
+0
+[0.59964544 0.37906975]
+1
+[0.44186949 0.53279842]
+0
+[0.59421519 0.37746033]
+1
+[0.58478308 0.39772993]
+1
+[0.60588457 0.38668382]
+1
+[0.61077375 0.34417536]
+1
+[0.60724599 0.34690169]
+1
+[0.51785317 0.60126908]
+0
+[0.59852007 0.37622539]
+1
+[0.48271443 0.54526246]
+0
+door lock
+[INFO] elasped time: 27.49
+[INFO] approx. FPS: 1.53
+
+INFO:werkzeug:127.0.0.1 - - [09/Jan/2024 03:47:43] "GET /run_face_rec?input_data=example_input HTTP/1.1" 200 -
